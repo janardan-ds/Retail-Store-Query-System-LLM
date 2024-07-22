@@ -1,5 +1,5 @@
 
-# AtliQ Tees: Talk to a Database  
+# Retail Store Query System: Talk to a Database  
 
 This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. 
 User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
@@ -31,12 +31,12 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/janardan-ds/Retail-Store-Query-System-LLM.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd 4_sqldb_tshirts
+  cd Retail-Store-Query-System-LLM
 ```
 3. Install the required dependencies using pip:
 
